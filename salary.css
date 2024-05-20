@@ -1,0 +1,22 @@
+table{
+    margin: 0 auto;
+}
+td{
+    border : rgb(68, 7, 7) 1px solid;
+    text-align: center;
+    width: 80px;
+    padding: 30px;
+    margin: 200px;
+}
+th{
+    border : rgb(103, 0, 0) 1px solid;
+    background-color: rgb(0, 35, 35);
+    text-align: center;
+    padding: 30px;
+    margin: 200px;
+}
+
+body{
+    background-color: rgb(6, 1, 21);
+    color: bisque;
+}
